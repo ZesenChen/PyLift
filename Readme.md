@@ -1,20 +1,20 @@
-﻿### Coder
+﻿## Coder
 
 author: Zesen Chen
 
 email: seu.chenzesen@gmail.com 
 
-### Introduction
+## Introduction
 
 This is an examplar file on how the LIFT program could be used.
 
-### Requirements
+## Requirements
 
 python version: 2.7
 
 lib: numpy, mlab, libsvm, sklearn, scipy
 
-### Description
+## Description
 
 ***ratio*** - The number of clusters (i.e. k1 for positive examples, k2 for negative examples) considered for the i-th class is set to k2=k1=min(ratio*num_pi,ratio*num_ni), where num_pi and num_ni are the number of positive and negative examples for the i-th class respectively.
 ***The default configuration is ratio=0.1***
@@ -28,7 +28,7 @@ lib: numpy, mlab, libsvm, sklearn, scipy
 
 ***The default configuration of svm_type is 1***
 
-### Example
+## Example
 
 1、Change the basepath of your datasets and give the list of them;
 
