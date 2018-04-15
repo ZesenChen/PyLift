@@ -1,4 +1,4 @@
-### Coder
+﻿### Coder
 
 author: Zesen Chen
 
@@ -8,7 +8,7 @@ email: seu.chenzesen@gmail.com
 
 This is an examplar file on how the LIFT program could be used.
 
-###Requirements
+### Requirements
 
 python version: 2.7
 
@@ -28,7 +28,7 @@ lib: numpy, mlab, libsvm, sklearn, scipy
 
 ***The default configuration of svm_type is 1***
 
-## Example
+### Example
 
 1、Change the basepath of your datasets and give the list of them;
 
